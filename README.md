@@ -29,7 +29,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   - mail : <a href="mailto: ezzbro121@gmail.com" >ezzbro121@gmail.com</a>
   - site : <a href="https://renn.vercel.app" >https://renn.vercel.app</a>
 
-
+---
 ### :hammer_and_wrench: Languages and Tools :
   <div>
   <img
